@@ -3,7 +3,6 @@ plugins {
     id 'com.android.application'
 }
 
-apply plugin: 'com.android.application'
 android {
     namespace 'com.example.test3'
     compileSdk 36
